@@ -4,9 +4,7 @@
 
 Real GPS tracking solution ready for integration into your Flutter app. Built and tested in production ride-tracking application.
 
-https://github.com/user-attachments/assets/demo.mp4
-
-[📹 Watch Demo Video](demo.mp4)
+https://github.com/user-attachments/assets/fed0d675-6b55-479a-a047-803440ad9424
 
 ---
 
@@ -64,6 +62,7 @@ GPS tracking looks simple until you start. Here's what you'll face:
 Contact us to discuss your specific needs and timeline.
 
 **Site:** https://madbrains.ru
+
 **Email:** hello@madbrains.ru
 
 ---
