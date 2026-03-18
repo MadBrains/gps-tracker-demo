@@ -4,9 +4,7 @@
 
 Готовое решение для GPS-трекинга, которое интегрируется в ваше Flutter приложение. Построено и протестировано в продакшн приложении для отслеживания поездок.
 
-https://github.com/user-attachments/assets/demo.mp4
-
-[📹 Смотреть демо видео](demo.mp4)
+https://github.com/user-attachments/assets/fed0d675-6b55-479a-a047-803440ad9424
 
 ---
 
