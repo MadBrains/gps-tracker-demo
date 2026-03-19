@@ -1,6 +1,6 @@
 # GPS Tracking Engine
 
-[RU](README.ru.md) | **EN**
+[RU](README.md) | **EN**
 
 Real GPS tracking solution ready for integration into your mobile app. Built and tested in production ride-tracking application.
 
