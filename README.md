@@ -1,70 +1,65 @@
-# GPS Tracking Engine for Flutter
+# GPS Tracking Engine
 
-**EN** | [RU](README.ru.md)
+**RU** | [EN](README.md)
 
-Real GPS tracking solution ready for integration into your Flutter app. Built and tested in production ride-tracking application.
+Готовое решение для GPS-трекинга, которое интегрируется в ваше мобильное приложение. Построено и протестировано в production-приложении для отслеживания поездок.
 
 https://github.com/user-attachments/assets/fed0d675-6b55-479a-a047-803440ad9424
 
 ---
 
-## What You Get
+## Что вы получаете
 
-A complete GPS tracking module that handles everything from battery-efficient location monitoring to route processing and map visualization.
+Полноценный модуль GPS-трекинга, который решает всё — от энергоэффективного мониторинга локации до обработки маршрутов и визуализации на карте.
 
-**Location Engine**
-- Background tracking that works on both iOS and Android
-- Smart battery management (pauses when device is stationary)
-- Handles all platform permission quirks automatically
+**Движок локации**
+- Фоновый трекинг на iOS и Android
+- Умное управление батареей (автоматическая пауза при остановке)
+- Автоматическая обработка всех платформенных нюансов с разрешениями
 
-**Route Processing**
-- Cleans up noisy GPS data using Douglas-Peucker algorithm
-- Filters out outliers with corridor-based detection
-- Calculates accurate distance and speed metrics
+**Обработка маршрутов**
+- Очистка шумных GPS данных алгоритмом Дугласа-Пекера
+- Фильтрация выбросов через коридорное определение
+- Точный расчет дистанции и скорости
 
-**Data Management**
-- SQLite database optimized for GPS point storage
-- Handles 100k+ points without slowdown
-- Works fully offline, syncs when online
-- Export to GPX formatЭ
+**Управление данными**
+- База данных SQLite, оптимизированная под хранение GPS точек
+- Обрабатывает 100k+ точек без просадок
+- Полностью работает оффлайн, синхронизация при наличии сети
+- Экспорт в формат GPX
 
-**Map Integration**
-- Works with diffirent map provider (MapBox, Google Maps, etc.)
-- Custom route rendering with real-time updates
-- Route replay with timeline controls
-
----
-
-## Why Not Build It Yourself?
-
-GPS tracking looks simple until you start. Here's what you'll face:
-
-- iOS background tracking stops randomly
-- GPS jumps all over the map
-- Battery drains in 2 hours
-- Route looks like spaghetti
-- App crashes with large datasets
+**Интеграция с картами**
+- Работает с разными картографическим провайдером (MapBox, Google Maps и др.)
+- Кастомная отрисовка маршрутов с обновлением в реальном времени
+- Воспроизведение маршрута с таймлайн контролами
 
 ---
 
-## Perfect For
+## Зачем делать самому?
 
-- Running and cycling apps
-- Hiking and outdoor activity tracking
-- Fitness and workout applications
-- Sports performance analytics
-- Any app that tracks user movement and routes
+GPS-трекинг кажется простым, пока не начнешь. Вот с чем вы столкнетесь:
+
+- Фоновый трекинг на iOS случайно останавливается
+- GPS прыгает по всей карте
+- Батарея садится за 2 часа
+- Маршрут выглядит как спагетти
+- Приложение крашится на больших данных
 
 ---
 
-## Get Started
+## Подходит для
 
-Contact us to discuss your specific needs and timeline.
+- Приложений для бега и велотренировок
+- Трекинга походов и уличных активностей
+- Фитнес приложений и тренировок
+- Спортивной аналитики
+- Любого приложения, которое отслеживает движение пользователя и маршруты
 
-**Site:** https://madbrains.ru
+---
 
+## Начать работу
+
+Свяжитесь с нами, чтобы обсудить ваши задачи и сроки.
+
+**Сайт:** https://madbrains.ru
 **Email:** hello@madbrains.ru
-
----
-
-Built by developers who ship production apps, not just demos.
